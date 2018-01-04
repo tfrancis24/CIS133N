@@ -1,0 +1,9 @@
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\bin\Debug\Lab_4_Timf.exe.config
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\bin\Debug\Lab_4_Timf.exe
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\bin\Debug\Lab_4_Timf.pdb
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.csprojResolveAssemblyReference.cache
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.stateForm.resources
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.Properties.Resources.resources
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.csproj.GenerateResource.Cache
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.exe
+E:\PCC\CIS133N\lab-4\Lab_4_Timf\Lab_4_Timf\obj\Debug\Lab_4_Timf.pdb
